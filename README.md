@@ -14,3 +14,14 @@ python utils.py
 
 ### Requiremnets (python)
 - numpy, matplotlib
+
+## Experiments-2: Interpolation
+This experiment is mainly to explore the interpolation function, including Lagrange, Hermite and Newton.
+
+The main code is in ```interpolation.py```, it includes the interpolation function. You can check the generating results and true results with:
+```
+python interpolation.py
+```
+
+### Requiremnets (python)
+- numpy, sympy
