@@ -18,10 +18,21 @@ python utils.py
 ## Experiments-2: Interpolation
 This experiment is mainly to explore the interpolation function, including Lagrange, Hermite and Newton.
 
-The main code is in ```interpolation.py```, it includes the interpolation function. You can check the generating results and true results with:
+The main code is in ```interpolation.py```, it includes the interpolation function.
 ```
 python interpolation.py
 ```
 
-### Requiremnets (python)
+### Requiremnets
 - numpy, sympy
+
+## Experiments-3: Function Approximation and Curve Fitting
+This experiment is mainly to explore the least squares method.
+
+The main code is in ```curve_fitting.py```, it includes the power function, error function and polynomial function. 
+```
+curve_fitting.py
+```
+
+### Requiremnets
+- numpy, scipy, matplotlib
