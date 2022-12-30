@@ -36,3 +36,14 @@ curve_fitting.py
 
 ### Requiremnets
 - numpy, scipy, matplotlib
+
+## Solving the System of Equations
+This experiment is mainly to explore how to solve the system of equations.
+
+The main code is in ```equation.py```, it includes the Gauss Elimination, square root method and matrix factorization. 
+```
+equation.py
+```
+
+### Requiremnets
+- numpy, sklearn
